@@ -1,0 +1,15 @@
+{
+  "name": "sm_js_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "script",
+    "js"
+  ],
+  "author": "WhatsUpeng",
+  "license": "ISC"
+}
